@@ -14,10 +14,11 @@ The models used in our research are:
 
 ## Repository Structure
 
-- **data/**: Contains the datasets used for training and testing.
-- **models/**: Includes the implementation of the LSTM, Bi-LSTM, and Transformer models.
-- **notebooks/**: Jupyter notebooks demonstrating the training and evaluation process.
+- **data/**: exmaple dataset
+- **src/**: model 구현에 필요한 source, package 등
 - **results/**: Stores the results and performance metrics of the models.
+- **checkpoints/**: saved models.
+
 
 ## Usage
 
